@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Singh
-- 👀 I’m interested in Full Stack Web Developement
+- 👀 I’m interested in Full Stack Web Developement on Web3,VR,MR,AR and Metaverse.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Front End Development and Will Grow by Time
 - 📫 How to reach me Drop an Email To rohitsingh182000@gmail.com
